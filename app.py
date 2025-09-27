@@ -111,3 +111,18 @@
 #     print("Your normal weight")
 # else:
 #     print("your over weight")
+
+#Expressions
+# x=y=z=25
+# a=(x+y)*z
+# b=x**2
+# print(a)
+# print(b)
+
+
+#area of triangle
+# height=int(input("enter height:"))
+# base=int(input("enter base:"))
+# area=0.5*base*height
+# print("Area of triangle:",area)
+
