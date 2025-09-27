@@ -36,4 +36,9 @@
 # print("Total number of minutes for",num,"hours is:",num*60)
 
 
+#calculate days based on age
+# age=int(input("Enter age:"))
+# print("age:",age," total days:",age*365)
+
+
 
