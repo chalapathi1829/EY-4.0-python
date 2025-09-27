@@ -31,5 +31,9 @@
 # print("Hours per one month:",onemonth*hours,"hours")
 # print("Hours per one Year:",oneyear*hours,"hours")
 
+#calculating minutes for a given number
+# num=int(input("Enter a number:"))
+# print("Total number of minutes for",num,"hours is:",num*60)
+
 
 
