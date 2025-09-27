@@ -55,3 +55,13 @@
 # print(list(set)[0])
 # print(tuple[2])
 
+#if condition
+# a=int(input("Enter your attendance:"))
+# if a>=70:
+#     print("your attendance is",a,".","your are Eligible")
+# else:
+#     print("your attendance is",a,".","your are not Eligible")
+
+#if condition in oneline
+# a=4
+# print("even") if a%2==0 else print("odd")
