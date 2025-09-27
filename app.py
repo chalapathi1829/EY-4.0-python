@@ -92,3 +92,22 @@
 # while a>=20:
 #     print("Your are exceding the limit")
 # a+=2
+
+#def
+# def gretting():
+#     return "hello world"
+# print(gretting())
+
+#Bmi calculator
+# name=input("enter name:")
+# dep=input("enter branch:")
+# a=float(input("enter weight:"))
+# b=float(input("enter height:"))
+# bmi=a/(b**2)
+# print("Your name is",name)
+# print("Your branch is",dep)
+# print("Your bmi value is:",bmi)
+# if bmi<=25:
+#     print("Your normal weight")
+# else:
+#     print("your over weight")
