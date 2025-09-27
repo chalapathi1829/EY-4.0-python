@@ -65,3 +65,14 @@
 #if condition in oneline
 # a=4
 # print("even") if a%2==0 else print("odd")
+
+# validating password
+# username="admin"
+# password="admin@123"
+
+# a=input("enter username:")
+# b=input("Enter password:")
+# if (a==username and b==password):
+#     print("Login sucessful")
+# else:
+#     print("login failed")
