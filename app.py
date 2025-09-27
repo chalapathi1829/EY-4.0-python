@@ -126,3 +126,16 @@
 # area=0.5*base*height
 # print("Area of triangle:",area)
 
+#try
+# try:
+#     x=10/0
+# except ZeroDivisionError:
+#     print("Error")
+
+#date and time
+# import datetime
+
+# from cv2 import pencilSketch
+# now=datetime.datetime.now()
+# print(now)
+
