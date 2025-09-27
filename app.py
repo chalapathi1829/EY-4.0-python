@@ -40,5 +40,18 @@
 # age=int(input("Enter age:"))
 # print("age:",age," total days:",age*365)
 
+#data structures
+# tuple=(22,'jhon',23)
+# print(type(tuple))
+# set={11}
+# print(type(set))
+# lists=[1,2,3,4]
+# print(type(lists))
+# dict={"name":"jhon","age":22}
+# print(type(dict))
 
+# print(lists[1])
+# print(dict["name"])
+# print(list(set)[0])
+# print(tuple[2])
 
