@@ -76,3 +76,8 @@
 #     print("Login sucessful")
 # else:
 #     print("login failed")
+
+
+#range
+# a=range(5)
+# print(list(a))
