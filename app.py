@@ -81,3 +81,14 @@
 #range
 # a=range(5)
 # print(list(a))
+
+#for loop
+# a=[24,52,53,98,27]
+# for i in a:
+#     print(f"{i} is even" if i%2==0 else f"{i} is odd")
+
+#while 
+# a=int(input("Enter amount:"))
+# while a>=20:
+#     print("Your are exceding the limit")
+# a+=2
