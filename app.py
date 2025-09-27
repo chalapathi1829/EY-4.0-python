@@ -15,10 +15,21 @@
 # print("x:",x,"y:",y,"z:",z)
 
 #Data Types printing
-name="Jhon"
-age=23
-phone="9988775566"
-#type
-print(type(name),type(age),type(phone))
+# name="Jhon"
+# age=23
+# phone="9988775566"
+# #type
+# print(type(name),type(age),type(phone))
+
+#Time calculation
+# hours=24
+# oneweek=7
+# onemonth=30
+# oneyear=365
+# print("Hours per one Day:",hours,"hours")
+# print("Hours per one week:",oneweek*hours,"hours")
+# print("Hours per one month:",onemonth*hours,"hours")
+# print("Hours per one Year:",oneyear*hours,"hours")
+
 
 
